@@ -1,4 +1,6 @@
-# Python-Boilerplate
-Competitive programming python boilerplate
+# Python Boilerplate
+Useful imports
+Lambda functions for typical import
 
-!!! Needs testing !!!
+# C++ Boilerplate
+Useful imports
